@@ -27,12 +27,12 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 90%
+  font-size: 100%
 }
 
 body {
   font-family: var(--body-font);
-  font-size: 0.625rem;
+  font-size: 1.125rem;
   color: var(--text-col);
   position: relative;
   background-color: var(--page-col);
